@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "title": "cabbage",
+      "Time": 39,
+      "Ingerdients": "masal",
+      "Instructions": "cook",
+      "id": 1
+    },
+    {
+      "title": "cabbage",
+      "Time": 39,
+      "Ingerdients": "masal",
+      "Instructions": "cook",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
